@@ -1,0 +1,13 @@
+0.840947
+0.6002
+2.6
+100
+5000
+2.0
+
+	ReadInput >> mu
+	ReadInput >> sigma
+	ReadInput >> delta
+	ReadInput >> n_block
+	ReadInput >> n_step
+	ReadInput >> extremum
